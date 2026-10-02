@@ -1,0 +1,11 @@
+# Documentation et matériel de cours
+/Documentation torch/
+/Guide_Etudiant_A26.pdf
+
+# Python
+__pycache__/
+*.pyc
+
+# IDE
+.idea/
+.vscode/
